@@ -1,0 +1,9 @@
+.slyder{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.col-8{
+    text-align: justify;
+}
